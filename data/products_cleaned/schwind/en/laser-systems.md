@@ -26,7 +26,7 @@ The performance excimer laser from one of the technology leaders.
 
 With its 750 Hz repetition rate and 6D eye tracking, the SCHWIND AMARIS 750S is an exceptionally high-speed, high-precision eye laser system for refractive and therapeutic corneal surgery. The very fine 0.54 mm laser spot it shares with all SCHWIND AMARIS lasers further enhances the precision and smooth corneal modelling of this device. The swivelling laser arm provides the maximum convenience for doctor and patient.
 
-The SCHWIND AMARIS 750RS can be used with all standard laser treatment methods, including SCHWIND's touch-free SmartSurfACE with its faster healing and faster vision recovery than with traditional surface treatments. With SCHWIND CAM treatment planning, the AMARIS product family covers a uniquely broad range of applications.
+The SCHWIND AMARIS 750S can be used with all standard laser treatment methods, including SCHWIND's touch-free SmartSurfACE, with faster healing and faster visual recovery than with traditional surface treatments. With SCHWIND CAM treatment planning, the AMARIS product family covers a uniquely broad range of applications.
 
 ## SCHWIND AMARIS 500E
 

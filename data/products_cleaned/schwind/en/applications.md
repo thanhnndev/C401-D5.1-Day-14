@@ -20,7 +20,7 @@ SCHWIND CAM consists of three modules. Each addresses all factors relevant to it
 
 ### ORK-CAM
 
-ORK-CAM is the module for refractive laser correction. It uses aspherical ablation profiles for aberration-free treatment, as well as treatment with corneal or ocular wavefront data. The module provides a variety of functions and can be used for all common ablation techniques.
+ORK-CAM is the module for refractive laser correction. It uses aspherical ablation profiles designed to minimise induced aberrations, and also supports treatments based on corneal or ocular wavefront data. The module provides a wide range of functions and can be used for all common ablation techniques.
 
 Supported techniques:
 - LASIK
@@ -62,7 +62,7 @@ The PTK-CAM module addresses therapeutic treatments. It supports round, elliptic
 
 #### What is SCHWIND Foresight®?
 
-SCHWIND Foresight® is a unique, intuitive and sophisticated software solution to visualise the effect on the cornea of each individual refractive surgery treatment upon planning. Foresight creates a virtual replica of the individual patient's cornea. Based on it, surgeons can dry run surgery, reflect their planning and educate their patients about the planned ablation profile and the expected outcome.
+SCHWIND Foresight® is a unique, intuitive and sophisticated software solution that visualises the effect of each individual refractive surgery treatment on the cornea during treatment planning. Foresight creates a virtual replica of the individual patient's cornea. Based on this model, surgeons can dry run surgery, review and refine their planning, and educate patients about the planned ablation profile and the estimated post-operative corneal shape.
 
 #### Benefits at a Glance
 

@@ -18,9 +18,9 @@ After lasering, the surgeon, looking through the microscope included in SCHWIND 
 
 ## SmartSurfACE Technology
 
-The innovative SmartSurfACE eye lasering procedure is impressive and touch-free. It combines the advantages of SCHWIND's proven TransPRK surface ablation method and revolutionary SmartPulse technology. The result is clear vision without compromise.
+The innovative SmartSurfACE eye laser procedure is touch-free and combines the advantages of SCHWIND's proven TransPRK surface ablation method with revolutionary SmartPulse technology.
 
-Unlike with previous methods, the eye is not touched with any instrument. Instead, the SCHWIND AMARIS laser corrects vision through the top layers of the cornea, without suction, flap, or incision, and without the use of alcohol. SmartSurfACE is non-invasive, safe, gentle, and stress-free for the patient.
+Unlike conventional methods, the eye is not touched with any instrument. Instead, the SCHWIND AMARIS laser corrects vision through the top layers of the cornea, without suction, flap, incision, or the use of alcohol. SmartSurfACE is a gentle surface treatment designed to provide a smooth treatment experience for the patient.
 
 SmartPulse technology gives the cornea a very smooth surface. This results in optimum vision quality in the early post-operative phase and significantly faster healing.
 
@@ -30,7 +30,7 @@ SmartPulse technology gives the cornea a very smooth surface. This results in op
 
 No-touch eye laser treatment in a single step.
 
-TransPRK (transepithelial photorefractive keratectomy) by SCHWIND is a touch-free laser eye correction method used with SCHWIND AMARIS laser systems. Unlike with conventional methods like LASEK, Epi-LASIK and PRK, with TransPRK the eye is not touched with any instrument. Instead, the SCHWIND AMARIS laser removes the epithelium, without suction, flap, or blade, and without the use of alcohol. This touch-free procedure is non-invasive, safe, and gentle to the eye.
+TransPRK (transepithelial photorefractive keratectomy) by SCHWIND is a touch-free laser vision correction method performed with SCHWIND AMARIS laser systems. Unlike conventional methods such as LASEK, Epi-LASIK and PRK, no instrument touches the eye. The SCHWIND AMARIS laser removes the epithelium without suction, flap, blade, or the use of alcohol. This touch-free surface treatment is safe and gentle to the eye.
 
 ## CustomEyes®
 
@@ -41,9 +41,9 @@ CustomEyes® with SCHWIND AMARIS® offers an advanced, personalised approach to 
 - The versatile range of customisation enables CustomEyes® with SCHWIND AMARIS®, to offer personalised treatment for every eye/patient
 - Derived from 20+ years of experience in wavefront guided customisation
 - High resolution diagnostic devices (e.g. SCHWIND PERAMIS, MS-39 etc.)
-- Can measure the fine details of the cornea's front and back surface as well as it can calculate the total irregularities/errors of the eye
+- Can measure the fine details of the anterior and posterior corneal surfaces and calculate the overall optical irregularities of the eye
 - Tissue-saving automation can support the quality of vision improvement while maintaining high corneal stability
-- SCHWIND AMARIS® technology (with up to 7D virtually latency-free eye movement compensation for improved precision during the laser treatment)
+- SCHWIND AMARIS® technology with up to 7D, virtually latency-free eye movement compensation for improved precision during laser treatment.
 
 ## SCHWIND TheraCare
 
