@@ -15,11 +15,11 @@ Thiết bị và dụng cụ nhãn khoa chất lượng cao, mang tính đổi m
 ## R-Evolution®
 
 R-Evolution® là hệ thống cung cấp nhiều tùy chọn cho từng giai đoạn của quy trình phẫu thuật đục thủy tinh thể, cải thiện hiệu suất và chức năng.
+Hệ thống Phaco dạng tháp với bơm kép (nhu động và cánh quay)
 
 ## R-Evo Smart® E
 
 Hệ thống Phaco nhỏ gọn với bơm đơn (nhu động)
-Hệ thống Phaco dạng tháp với bơm kép (nhu động và cánh quay)
 
 ## R-Evo Smart® S
 

@@ -15,11 +15,11 @@ Innovative and high quality ophthalmic equipment and instruments are the tools t
 ## R-Evolution®
 
 R-Evolution® is the system that offers a wide range of options for each stage of the cataract procedure, improving performance and functionality.
+Tower Phaco System with Dual Pump (Peristaltic and Rotary Vane)
 
 ## R-Evo Smart® E
 
 Compact Phaco System with Single Pump (Peristaltic)
-Tower Phaco System with Dual Pump (Peristaltic and Rotary Vane)
 
 ## R-Evo Smart® S
 
