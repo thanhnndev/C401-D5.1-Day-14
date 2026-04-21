@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "version": "Agent_V2_Optimized",
+    "total": 3,
+    "total_cases": 3,
+    "timestamp": "2026-04-21 17:12:47"
+  },
+  "metrics": {
+    "avg_score": 3.2170666666666663,
+    "hit_rate": 0.6666666666666666,
+    "mrr": 0.6666666666666666,
+    "agreement_rate": 0.8948039215686275,
+    "avg_latency": 75.35539194333312,
+    "total_tokens": 2202,
+    "cost_usd": 0.003351,
+    "pass_rate": 0.3333333333333333,
+    "error_count": 0,
+    "faithfulness": 0.0978915162028096,
+    "answer_relevancy": 0.10434806964473901,
+    "context_precision": 0.08383350320664336
+  },
+  "regression": {
+    "v1_score": 3.3051333333333335,
+    "v2_score": 3.2170666666666663,
+    "delta": -0.08806666666666718,
+    "decision": "BLOCK RELEASE",
+    "reasoning": "avg_score v2 (3.2171) >= v1 (3.3051)"
+  },
+  "release_gate": {
+    "decision": "BLOCK RELEASE",
+    "passed": false,
+    "thresholds": {
+      "min_avg_score": 3.0,
+      "min_hit_rate": 0.7,
+      "max_hallucination_rate": 0.15,
+      "max_latency": 15.0
+    },
+    "checks": [
+      {
+        "name": "score_improved",
+        "passed": false,
+        "detail": "avg_score v2 (3.2171) >= v1 (3.3051)"
+      },
+      {
+        "name": "hit_rate_not_degraded",
+        "passed": true,
+        "detail": "hit_rate v2 (0.6667) >= v1 (0.3333)"
+      },
+      {
+        "name": "threshold_min_avg_score",
+        "passed": true,
+        "detail": "avg_score v2 (3.2171) >= min_avg_score (3.0000)"
+      }
+    ],
+    "failed_checks": [
+      {
+        "name": "score_improved",
+        "passed": false,
+        "detail": "avg_score v2 (3.2171) >= v1 (3.3051)"
+      }
+    ],
+    "reasoning": "avg_score v2 (3.2171) >= v1 (3.3051)"
+  }
+}

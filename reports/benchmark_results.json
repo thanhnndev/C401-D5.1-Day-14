@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-21 17:12:47",
+    "v1_version": "Agent_V1_Base",
+    "v2_version": "Agent_V2_Optimized"
+  },
+  "v1_results": [
+    {
+      "test_case": "Kích thước và số lượng của sản phẩm Melafol Plus [VI] là bao nhiêu?",
+      "agent_response": "Xin lỗi, nhưng thông tin về kích thước và số lượng của sản phẩm Melafol Plus [VI] không có trong các tài liệu kỹ thuật được cung cấp. Để nhận được thông tin chính xác và chuyên sâu hơn về sản phẩm này, tôi khuyên bạn nên liên hệ trực tiếp với bộ phận kỹ thuật của chúng tôi. Họ sẽ rất vui lòng hỗ trợ bạn.",
+      "latency": 98.69254958800047,
+      "ragas": {
+        "metric_source": "custom-fallback",
+        "faithfulness": 0.0880281690140845,
+        "answer_relevancy": 0.1896551724137931,
+        "context_precision": 0.04330708661417323,
+        "retrieval": {
+          "hit_rate": 0.0,
+          "mrr": 0.0,
+          "expected_ids": [
+            "melag__melafol-plus__vi__002"
+          ],
+          "retrieved_ids": [
+            "schwind__schwind-laser-systems__vi__002",
+            "melag__vacuclave-118-123__en__000",
+            "melag__melacontrol-bowie-dick__vi__001",
+            "melag__melastore-box-100__en__001",
+            "melag__melastore-box-200__vi__001"
+          ]
+        }
+      },
+      "judge": {
+        "final_score": 3.0454,
+        "conflict": true,
+        "score_diff": 1.0908,
+        "agreement_rate": 0.7273109243697478,
+        "individual_scores": {
+          "qwen3.6-plus": 3.5908,
+          "qwen2.5-vl-72b-instruct": 2.5
+        },
+        "individual_reasons": {
+          "qwen3.6-plus": "Fallback scoring due to API error: Request timed out.",
+          "qwen2.5-vl-72b-instruct": "Trả lời không chính xác và đầy đủ so với ground truth, nhưng an toàn và có tone chuyên nghiệp."
+        },
+        "reasoning": "qwen3.6-plus=3.59, qwen2.5-vl-72b-instruct=2.50, agreement=0.73, conflict=yes."
+      },
+      "token_usage": {
+        "agent_tokens": 904,
+        "judge_tokens": 0,
+        "total_tokens": 904
+      },
+      "estimated_cost_usd": 0.001202,
+      "status": "pass"
+    },
+    {
+      "test_case": "What type of display does the Phaco Vitrectomy Equipment feature?",
+      "agent_response": "Dựa trên thông tin được cung cấp trong phần CONTEXT, không có chi tiết cụ thể nào đề cập đến loại màn hình mà thiết bị Phaco Vitrectomy Equipment sử dụng. \n\nVì vậy, tôi xin lỗi nhưng không thể cung cấp thông tin chính xác về loại màn hình của thiết bị này. Tôi khuyên bạn nên liên hệ với bộ phận kỹ thuật để nhận được hỗ trợ chuyên sâu và thông tin chi tiết hơn.",
+      "latency": 97.58409120900069,
+      "ragas": {
+        "metric_source": "custom-fallback",
+        "faithfulness": 0.02,
+        "answer_relevancy": 0.04477611940298507,
+        "context_precision": 0.03225806451612903,
+        "retrieval": {
+          "hit_rate": 0.0,
+          "mrr": 0.0,
+          "expected_ids": [
+            "bvi__phaco-vitrectomy-equipment__en__014"
+          ],
+          "retrieved_ids": [
+            "bvi__phaco-vitrectomy-equipment__en__000",
+            "bvi__phaco-vitrectomy-equipment__en__010",
+            "bvi__phaco-equipment__en__000",
+            "bvi__phaco-vitrectomy-equipment__en__013",
+            "bvi__phaco-vitrectomy-equipment__en__002"
+          ]
+        }
+      },
+      "judge": {
+        "final_score": 2.02,
+        "conflict": true,
+        "score_diff": 0.96,
+        "agreement_rate": 0.76,
+        "individual_scores": {
+          "qwen3.6-plus": 1.54,
+          "qwen2.5-vl-72b-instruct": 2.5
+        },
+        "individual_reasons": {
+          "qwen3.6-plus": "Fallback scoring due to API error: Request timed out.",
+          "qwen2.5-vl-72b-instruct": "The answer does not provide the correct information as per the ground truth, leading to low accuracy and completeness scores. However, it is relevant to the question, safe in terms of not providing false information, and has a professional tone."
+        },
+        "reasoning": "qwen3.6-plus=1.54, qwen2.5-vl-72b-instruct=2.50, agreement=0.76, conflict=yes."
+      },
+      "token_usage": {
+        "agent_tokens": 626,
+        "judge_tokens": 0,
+        "total_tokens": 626
+      },
+      "estimated_cost_usd": 0.0010630000000000001,
+      "status": "fail"
+    },
+    {
+      "test_case": "What is Endoscopic Cyclophotocoagulation (ECP) and when can it be performed in glaucoma surgery?",
+      "agent_response": "Endoscopic Cyclophotocoagulation (ECP) is a surgical procedure used in the treatment of glaucoma. Here are the key points about ECP:\n\n- **Purpose**: ECP is designed to reduce intraocular pressure by decreasing the production of aqueous humor, which is a fluid inside the eye that can build up and cause increased pressure in cases of glaucoma.\n\n- **Technique**: This procedure utilizes laser microendoscopy, allowing surgeons to view inside the eye and apply targeted laser treatments directly to the ciliary body, where aqueous humor is produced.\n\n- **Timing and Application**:\n  - **During Cataract Surgery**: ECP can be performed at the same time as cataract surgery, making it a convenient option for patients who require both procedures.\n  - **As a Stand-Alone Procedure**: It can also be conducted independently when necessary for managing glaucoma.\n  - **Vitreoretinal Surgery**: Additionally, ECP may be carried out through the pars plana during vitreoretinal surgeries, offering flexibility in treatment approaches.\n\nThis versatile procedure leverages advanced technology to provide effective management of glaucoma while minimizing invasiveness and potentially reducing recovery times.",
+      "latency": 30.08039036000082,
+      "ragas": {
+        "metric_source": "custom-fallback",
+        "faithfulness": 0.171875,
+        "answer_relevancy": 0.11504424778761062,
+        "context_precision": 0.14361702127659576,
+        "retrieval": {
+          "hit_rate": 1.0,
+          "mrr": 0.5,
+          "expected_ids": [
+            "bvi__endo-optiks__en__001"
+          ],
+          "retrieved_ids": [
+            "bvi__endo-optiks__en__000",
+            "bvi__endo-optiks__en__001",
+            "bvi__endo-optiks__vi__000",
+            "schwind__schwind-cam-software__en__000",
+            "bvi__endo-optiks__en__002"
+          ]
+        }
+      },
+      "judge": {
+        "final_score": 4.85,
+        "conflict": false,
+        "score_diff": 0.3,
+        "agreement_rate": 0.925,
+        "individual_scores": {
+          "qwen3.6-plus": 5.0,
+          "qwen2.5-vl-72b-instruct": 4.7
+        },
+        "individual_reasons": {
+          "qwen3.6-plus": "The answer precisely matches the ground truth, correctly defining ECP and listing all three appropriate surgical timing scenarios. It is comprehensive, directly relevant, medically accurate without hallucination, and presented in a clear, professional format.",
+          "qwen2.5-vl-72b-instruct": "The answer is highly accurate, complete, and relevant to the question, with a professional tone. It slightly exceeds the ground truth by providing additional useful details about the technique and purpose of ECP."
+        },
+        "reasoning": "qwen3.6-plus=5.00, qwen2.5-vl-72b-instruct=4.70, agreement=0.93, conflict=no."
+      },
+      "token_usage": {
+        "agent_tokens": 949,
+        "judge_tokens": 0,
+        "total_tokens": 949
+      },
+      "estimated_cost_usd": 0.0012245,
+      "status": "pass"
+    }
+  ],
+  "v2_results": [
+    {
+      "test_case": "Kích thước và số lượng của sản phẩm Melafol Plus [VI] là bao nhiêu?",
+      "agent_response": "Xin lỗi, nhưng thông tin về sản phẩm Melafol Plus [VI] không có trong các tài liệu kỹ thuật mà tôi được cung cấp. Để nhận được thông tin chính xác và chuyên sâu về sản phẩm này, tôi khuyên bạn nên liên hệ trực tiếp với bộ phận kỹ thuật của chúng tôi. Họ sẽ rất vui lòng hỗ trợ bạn.",
+      "latency": 97.93657602799976,
+      "ragas": {
+        "metric_source": "custom-fallback",
+        "faithfulness": 0.019867549668874173,
+        "answer_relevancy": 0.1206896551724138,
+        "context_precision": 0.08737864077669903,
+        "retrieval": {
+          "hit_rate": 1.0,
+          "mrr": 1.0,
+          "expected_ids": [
+            "melag__melafol-plus__vi__002"
+          ],
+          "retrieved_ids": [
+            "melag__melafol-plus__vi__002",
+            "melag__melastore-box-100__en__001",
+            "melag__melastore-box-100__vi__001",
+            "melag__melastore-box-200__vi__001",
+            "melag__vacuclave-118-123__en__000"
+          ]
+        }
+      },
+      "judge": {
+        "final_score": 2.6412,
+        "conflict": false,
+        "score_diff": 0.2824,
+        "agreement_rate": 0.9294117647058824,
+        "individual_scores": {
+          "qwen3.6-plus": 2.7824,
+          "qwen2.5-vl-72b-instruct": 2.5
+        },
+        "individual_reasons": {
+          "qwen3.6-plus": "Fallback scoring due to API error: Request timed out.",
+          "qwen2.5-vl-72b-instruct": "Trả lời không chính xác và không đầy đủ so với ground truth, nhưng an toàn về thông tin và có văn phong chuyên nghiệp."
+        },
+        "reasoning": "qwen3.6-plus=2.78, qwen2.5-vl-72b-instruct=2.50, agreement=0.93, conflict=no."
+      },
+      "token_usage": {
+        "agent_tokens": 666,
+        "judge_tokens": 0,
+        "total_tokens": 666
+      },
+      "estimated_cost_usd": 0.001083,
+      "status": "fail"
+    },
+    {
+      "test_case": "What type of display does the Phaco Vitrectomy Equipment feature?",
+      "agent_response": "Dựa trên thông tin được cung cấp trong phần CONTEXT, không có chi tiết cụ thể nào đề cập đến loại màn hình (display) mà thiết bị Phaco Vitrectomy Equipment sử dụng. \n\nVì vậy, tôi xin lỗi nhưng không thể cung cấp thông tin chính xác về loại màn hình của thiết bị này. Để có thông tin chi tiết và chính xác hơn, tôi khuyên bạn nên liên hệ với bộ phận kỹ thuật của chúng tôi để được hỗ trợ chuyên sâu.",
+      "latency": 98.06848618299955,
+      "ragas": {
+        "metric_source": "custom-fallback",
+        "faithfulness": 0.03902439024390244,
+        "answer_relevancy": 0.05970149253731343,
+        "context_precision": 0.019736842105263157,
+        "retrieval": {
+          "hit_rate": 0.0,
+          "mrr": 0.0,
+          "expected_ids": [
+            "bvi__phaco-vitrectomy-equipment__en__014"
+          ],
+          "retrieved_ids": [
+            "bvi__phaco-vitrectomy-equipment__en__013",
+            "bvi__phaco-vitrectomy-equipment__en__000",
+            "bvi__phaco-vitrectomy-equipment__en__010",
+            "bvi__phaco-vitrectomy-equipment__en__007",
+            "bvi__phaco-vitrectomy-equipment__vi__009"
+          ]
+        }
+      },
+      "judge": {
+        "final_score": 2.11,
+        "conflict": true,
+        "score_diff": 0.78,
+        "agreement_rate": 0.805,
+        "individual_scores": {
+          "qwen3.6-plus": 1.72,
+          "qwen2.5-vl-72b-instruct": 2.5
+        },
+        "individual_reasons": {
+          "qwen3.6-plus": "Fallback scoring due to API error: Request timed out.",
+          "qwen2.5-vl-72b-instruct": "The answer does not provide the correct information about the display type as per the ground truth, affecting accuracy and completeness. It is relevant to the question but lacks specific details. The response is safe and maintains a professional tone."
+        },
+        "reasoning": "qwen3.6-plus=1.72, qwen2.5-vl-72b-instruct=2.50, agreement=0.81, conflict=yes."
+      },
+      "token_usage": {
+        "agent_tokens": 641,
+        "judge_tokens": 0,
+        "total_tokens": 641
+      },
+      "estimated_cost_usd": 0.0010705,
+      "status": "fail"
+    },
+    {
+      "test_case": "What is Endoscopic Cyclophotocoagulation (ECP) and when can it be performed in glaucoma surgery?",
+      "agent_response": "Endoscopic Cyclophotocoagulation (ECP) is a minimally invasive glaucoma surgery procedure that focuses on reducing aqueous humor inflow. This technique utilizes laser microendoscopy to provide a unique opportunity for surgeons to view inside the eye and simultaneously treat both anterior and posterior applications.\n\nECP can be performed in the following scenarios:\n- **At the time of cataract surgery:** It can be integrated into the surgical plan to address both cataracts and glaucoma in one procedure.\n- **As a stand-alone procedure:** When patients require treatment specifically for glaucoma without other concurrent ocular surgeries.\n- **Through the pars plana at the time of vitreoretinal surgery:** This allows for comprehensive management of complex cases where both retinal and glaucoma issues need addressing.\n\nThe versatility of ECP makes it a valuable tool in the arsenal of ophthalmic surgeons, offering precise treatment options tailored to individual patient needs.",
+      "latency": 30.061113619000025,
+      "ragas": {
+        "metric_source": "custom-fallback",
+        "faithfulness": 0.23478260869565218,
+        "answer_relevancy": 0.1326530612244898,
+        "context_precision": 0.1443850267379679,
+        "retrieval": {
+          "hit_rate": 1.0,
+          "mrr": 1.0,
+          "expected_ids": [
+            "bvi__endo-optiks__en__001"
+          ],
+          "retrieved_ids": [
+            "bvi__endo-optiks__en__001",
+            "bvi__endo-optiks__en__000",
+            "bvi__endo-optiks__vi__000",
+            "bvi__phaco-vitrectomy-equipment__en__006",
+            "bvi__endo-optiks__en__002"
+          ]
+        }
+      },
+      "judge": {
+        "final_score": 4.9,
+        "conflict": false,
+        "score_diff": 0.2,
+        "agreement_rate": 0.95,
+        "individual_scores": {
+          "qwen3.6-plus": 5.0,
+          "qwen2.5-vl-72b-instruct": 4.8
+        },
+        "individual_reasons": {
+          "qwen3.6-plus": "The answer perfectly aligns with the ground truth, accurately defining ECP and correctly listing all three indicated surgical scenarios. It fully addresses both parts of the question, contains no unsupported claims, and is presented in a clear, professional medical tone.",
+          "qwen2.5-vl-72b-instruct": "The answer is highly accurate, complete, and relevant to the question, with no safety concerns. The tone is professional and clear."
+        },
+        "reasoning": "qwen3.6-plus=5.00, qwen2.5-vl-72b-instruct=4.80, agreement=0.95, conflict=no."
+      },
+      "token_usage": {
+        "agent_tokens": 895,
+        "judge_tokens": 0,
+        "total_tokens": 895
+      },
+      "estimated_cost_usd": 0.0011975,
+      "status": "pass"
+    }
+  ]
+}
