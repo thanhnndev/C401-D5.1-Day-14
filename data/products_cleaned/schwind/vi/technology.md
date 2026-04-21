@@ -18,9 +18,7 @@ Sau khi hoàn tất bắn laser, phẫu thuật viên quan sát qua kính hiển
 
 ## Công Nghệ SmartSurfACE
 
-Công nghệ SmartSurfACE mang đến trải nghiệm điều trị laser mắt hoàn toàn không chạm đầy ấn tượng. Phương pháp này kết hợp ưu điểm của kỹ thuật bào mòn bề mặt TransPRK đã được kiểm chứng của SCHWIND với công nghệ SmartPulse đột phá. Mang lại thị lực sắc nét tối ưu mà vẫn bảo toàn sự an toàn, ổn định giác mạc và trải nghiệm nhẹ nhàng cho bệnh nhân.
-
-Khác với các phương pháp trước đây, mắt không bị tác động bởi bất kỳ dụng cụ nào. Thay vào đó, laser SCHWIND AMARIS điều chỉnh thị lực thông qua các lớp trên của giác mạc – không hút, không tạo vạt, không rạch và không sử dụng cồn. SmartSurfACE là phương pháp không xâm lấn, an toàn, êm ái và giúp bệnh nhân cảm thấy thoải mái trong suốt quá trình điều trị.
+Công nghệ SmartSurfACE mang đến trải nghiệm điều trị laser mắt không chạm. Phương pháp này kết hợp ưu điểm của kỹ thuật điều trị bề mặt TransPRK với công nghệ SmartPulse, giúp tạo bề mặt giác mạc mịn hơn và hỗ trợ phục hồi thị lực sớm hơn. Trong suốt quá trình điều trị, mắt không bị tác động bởi dụng cụ cơ học, không tạo vạt, không rạch và không sử dụng cồn.
 
 Công nghệ SmartPulse tạo bề mặt giác mạc cực kỳ mịn, mang lại chất lượng thị lực tối ưu ngay trong giai đoạn hậu phẫu sớm và thúc đẩy quá trình hồi phục nhanh hơn rõ rệt.
 
@@ -32,11 +30,11 @@ Công nghệ SmartPulse tạo bề mặt giác mạc cực kỳ mịn, mang lạ
 
 TransPRK (transepithelial photorefractive keratectomy) của SCHWIND là phương pháp điều trị laser mắt hoàn toàn không chạm, được thực hiện với hệ thống SCHWIND AMARIS. Khác với các kỹ thuật truyền thống như LASEK, Epi-LASIK hay PRK, TransPRK không sử dụng bất kỳ dụng cụ cơ học nào tác động lên mắt.
 
-Laser SCHWIND AMARIS loại bỏ lớp biểu mô một cách chính xác mà không cần hút, không tạo vạt, không dùng dao và không dùng cồn. Quy trình này không xâm lấn, an toàn và đặc biệt nhẹ nhàng với giác mạc.
+Laser SCHWIND AMARIS loại bỏ lớp biểu mô một cách chính xác mà không cần hút, không tạo vạt, không dùng dao và không dùng cồn.
 
 ## CustomEyes®
 
-CustomEyes® kết hợp cùng SCHWIND AMARIS mang đến giải pháp điều chỉnh thị lực cá nhân hóa tiên tiến, ứng dụng công nghệ mặt sóng giác mạc để tối ưu hóa kết quả điều trị cho từng bệnh nhân.
+CustomEyes® kết hợp cùng SCHWIND AMARIS® mang đến giải pháp điều chỉnh thị lực cá thể hóa tiên tiến, ứng dụng công nghệ mặt sóng để tối ưu hóa kết quả điều trị cho từng bệnh nhân. Giải pháp này cho phép xây dựng phác đồ điều trị phù hợp với đặc điểm quang học riêng của từng mắt, hướng đến chất lượng thị lực tối ưu hơn sau điều trị.
 
 ### Lợi Ích Nổi Bật
 

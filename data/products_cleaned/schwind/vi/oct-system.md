@@ -14,9 +14,7 @@ original_file: products/schwind/oct-system.md
 
 #### Hình Ảnh HD Giúp Quan Sát Nhiều Chi Tiết Giác Mạc Hơn
 
-Máy chụp cắt lớp võng mạc (OCT) SCHWIND MS-39 mang đến bước tiến vượt bậc trong chẩn đoán giác mạc. Nhờ mức độ chi tiết ấn tượng, bác sĩ có thể đưa ra các quyết định điều trị tốt nhất.
-
-Sự kết hợp giữa thế hệ OCT miền phổ mới nhất và phương pháp đo hình thái bằng đĩa Placido mang lại độ phân giải tuyệt vời và cho thấy cấu trúc giác mạc đến từng chi tiết nhỏ nhất.
+SCHWIND MS-39 là thiết bị chụp cắt lớp phần trước nhãn cầu kết hợp bản đồ giác mạc hiệu suất cao, hỗ trợ chẩn đoán giác mạc với độ chi tiết cao. Nhờ kết hợp công nghệ OCT miền phổ tiên tiến với phương pháp đo hình thái bằng đĩa Placido, thiết bị cung cấp dữ liệu chính xác về giác mạc và toàn bộ phần trước của mắt, hỗ trợ bác sĩ đưa ra quyết định điều trị phù hợp hơn.
 
 Hình ảnh chụp cắt ngang với đường kính cực lớn, tối đa 16 milimét toàn bộ phần trước của mắt.
 
@@ -45,7 +43,7 @@ Sự kết hợp giữa camera Scheimpflug 3D tiên tiến và phương pháp đ
 - Chẩn đoán toàn bộ phần trước của mắt chỉ trong một bước
 - Chất lượng hình ảnh cao trên đường kính giác mạc 16 milimét
 - Tính toán tất cả các phép đo sinh trắc học cho phần trước của mắt với tối đa 100 mặt cắt đo độ dày giác mạc độ phân giải cao. Người dùng có thể chọn số lượng mặt cắt cho mỗi lần đo.
-- Độ chính xác tâm điểm và kết quả tốt hơn thông qua thông tin hiệu chỉnh xoay trục tĩnh khi điều trị bằng hệ thống laser SCHWIND AMARIS và SCHWIND ATOS.
+- Định tâm chính xác hơn và cải thiện kết quả điều trị nhờ thông tin hiệu chỉnh xoay trục nhãn cầu tĩnh khi điều trị bằng hệ thống laser SCHWIND AMARIS và SCHWIND ATOS.
 
 ## SCHWIND PERAMIS
 

@@ -10,7 +10,7 @@ original_file: products/schwind/laser-systems.md
 
 ## SCHWIND ATOS
 
-Laser femtosecond SCHWIND ATOS® cho phép thực hiện thủ thuật tách phiến nhu mô và tạo vạt giác mạc ít xâm lấn trong FemtoLASIK. Sự kết hợp giữa công nghệ tiên tiến và thiết kế thông minh mang lại sự an toàn và độ chính xác trong phẫu thuật điều chỉnh tật khúc xạ giác mạc.
+SCHWIND ATOS® là hệ thống laser femtosecond cho phép thực hiện phẫu thuật tách phiến nhu mô ít xâm lấn, đồng thời hỗ trợ tạo vạt giác mạc trong FemtoLASIK. Sự kết hợp giữa công nghệ tiên tiến và thiết kế thông minh mang lại độ an toàn và độ chính xác cao trong phẫu thuật khúc xạ giác mạc.
 
 ## SCHWIND AMARIS 1050RS
 
