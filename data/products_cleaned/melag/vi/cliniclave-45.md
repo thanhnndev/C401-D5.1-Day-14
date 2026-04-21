@@ -17,7 +17,7 @@ Nhỏ gọn, nhanh chóng, tiết kiệm. Máy hấp tiệt trùng cỡ lớn 10
 
 Bạn quyết định: Cỡ cực lớn hay cực cực lớn.
 
-Khử trùng đến 70 kg dụng cụ chỉ trong 23 - 50 phút - điều đó có thể không? Có, với Cliniclave 45. Với 4 mẫu, dòng Cliniclave mang đến sự linh hoạt tối đa, hiệu suất vượt trội và các chức năng thông minh. Khám phá khái niệm thiết bị XXL độc đáo, có sẵn dưới dạng thiết bị cửa đơn hoặc cửa đôi với kích thước buồng từ 100 - 200 lít.
+Khử trùng đến 70 kg dụng cụ chỉ trong 23 - 50 phút - điều đó có thể không? Có, với Cliniclave 45. Với 4 mẫu, dòng Cliniclave mang đến sự linh hoạt tối đa, hiệu suất vượt trội và các chức năng thông minh. Khám phá khái niệm thiết bị XXL độc đáo, có sẵn dưới dạng thiết bị cửa đơn hoặc cửa đôi với kích thước buồng từ 105 - 200 lít.
 
 ## Lợi Ích
 

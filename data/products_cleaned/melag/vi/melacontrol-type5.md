@@ -19,7 +19,7 @@ Có thể đặt chỉ thị:
 
 Chỉ thị đổi màu khi đạt điều kiện:
 - Sau 16,5 phút ở 121°C
-- Hoặc sau 3,5 phút ở 134°C
+- Hoặc sau 5,3 phút ở 134°C
 
 Sản phẩm dùng một lần, đóng hộp 250 que chỉ thị.
 

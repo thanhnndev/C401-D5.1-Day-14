@@ -17,7 +17,7 @@ Compact, fast, economical. The large autoclave with 105 liters for reprocessing 
 
 You decide: Extra large or extra extra large.
 
-Sterilizing up to 70 kg of instruments in just 23 - 50 minutes - is that possible? Yes, with Cliniclave 45. With 4 models, the Cliniclave Series offers the greatest possible flexibility, outstanding performance and smart functions. Discover the unique XXL device concept available as a single or double door unit with a chamber size of 100 - 200 litres.
+Sterilizing up to 70 kg of instruments in just 23 - 50 minutes - is that possible? Yes, with Cliniclave 45. With 4 models, the Cliniclave Series offers the greatest possible flexibility, outstanding performance and smart functions. Discover the unique XXL device concept available as a single or double door unit with a chamber size of 105 - 200 litres.
 
 ## Benefits
 
