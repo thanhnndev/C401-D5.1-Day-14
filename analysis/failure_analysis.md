@@ -2,6 +2,9 @@
 
 Tài liệu này phân tích các trường hợp thất bại và các vấn đề phát hiện được trong quá trình chạy Benchmark cho hệ thống RAG (Agent_V2_Optimized), dựa trên báo cáo từ `reports/benchmark_results.json` và `reports/summary.json`.
 
+**Thực hiện bởi:** Đội ngũ dự án (Lead: Đào Phước Thinh)
+
+
 ## Tổng quan kết quả Release Gate
 - **Điểm V1 (Baseline):** 3.3051
 - **Điểm V2 (Có Reranker):** 3.2171
