@@ -2,10 +2,11 @@
 __pycache__/
 *.pyc
 .DS_Store
-reports/
+# reports/
 # data/golden_set.jsonl
 
 .vscode/
 .idea/
 test/
 tests/
+.agent
