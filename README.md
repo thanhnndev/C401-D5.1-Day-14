@@ -65,7 +65,16 @@ Báo cáo 5 Whys phải chỉ ra được lỗi nằm ở đâu: Ingestion pipel
 
 ---
 
+## 👥 Đội ngũ thực hiện (Team Members)
+
+- **Đào Phước Thinh** (2A202600029) - Lead Data Engineer & RAG Developer
+  - Chịu trách nhiệm: Semantic Chunking, Indexing, Synthetic Data Generation (SDG), Hybrid Retrieval, Generation Pipeline.
+  - [Báo cáo cá nhân](analysis/reflections/reflection_Dao_Phuoc_Thinh.md)
+
+---
+
 ## 🔧 Hướng dẫn chạy
+
 
 ```bash
 # 1. Cài đặt dependencies
