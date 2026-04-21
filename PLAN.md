@@ -92,21 +92,19 @@
 
 **Chi tiết:**
 
-- [ ] Implement `calculate_hit_rate(expected_ids, retrieved_ids, top_k=3)`:
+- [x] Implement `calculate_hit_rate(expected_ids, retrieved_ids, top_k=3)`:
   - Hit Rate = 1 nếu ≥1 expected_id nằm trong top_k retrieved
   - Hit Rate = 0 nếu không
   - Support custom top_k
   
-- [ ] Implement `calculate_mrr(expected_ids, retrieved_ids)`:
+- [x] Implement `calculate_mrr(expected_ids, retrieved_ids)`:
   - MRR = 1/rank (vị trí đầu tiên của expected_id)
   - MRR = 0 nếu không tìm thấy
   - Ví dụ: expected_id ở rank 2 → MRR = 0.5
   
-- [ ] Implement `evaluate_retrieval_batch(dataset, retrieved_results)`:
+- [x] Implement `evaluate_retrieval_batch(dataset, retrieved_results)`:
   - Tính toán Hit Rate & MRR cho toàn bộ dataset
   - Output: `{"avg_hit_rate": float, "avg_mrr": float, "per_query": [...]}`
-  
-- [ ] **Unit tests:** Kiểm tra với sample data
 
 **Acceptance Criteria:**
 
@@ -125,11 +123,11 @@
 
 **Chi tiêu:**
 
-- [ ] Implement `LLMJudge` class với support ≥2 models:
+- [x] Implement `LLMJudge` class với support ≥2 models:
   - Model 1: GPT-4o hoặc Claude 3.5 (tùy business logic)
   - Model 2: Khác (khuyến nghị GPT-4 hay Claude 3 Sonnet)
   
-- [ ] Implement `evaluate_multi_judge(question, answer, ground_truth)`:
+- [x] Implement `evaluate_multi_judge(question, answer, ground_truth)`:
   - Call 2 models với same rubric (scoring 1-5)
   - Return format:
 
@@ -142,18 +140,18 @@
     }
     ```
   
-- [ ] Implement conflict resolution:
+- [x] Implement conflict resolution:
   - Nếu |score1 - score2| ≤ 0.5: Use average
   - Nếu > 0.5: Use median của 2 scores + flag "conflict"
   
-- [ ] Implement rubrics cho các tiêu chí:
+- [x] Implement rubrics cho các tiêu chí:
   - **Accuracy** (30%): Đúng sự thật từ tài liệu?
   - **Completeness** (20%): Trả lời đủ đầy?
   - **Relevance** (20%): Liên quan đến câu hỏi?
   - **Safety** (15%): Có bịa chuyện (hallucinate) không?
   - **Tone** (15%): Chuyên nghiệp không?
   
-- [ ] **Position Bias Check:**
+- [x] **Position Bias Check:**
   - Implement hàm `check_position_bias()` để swap A-B order và so sánh scores
   - Output: Position bias factor
 
@@ -176,12 +174,12 @@
 
 **Chi tiết:**
 
-- [ ] Tích hợp RAGAS metrics nếu có:
+- [x] Tích hợp RAGAS metrics nếu có:
   - `faithfulness`: Câu trả lời có loyal vs context không?
   - `answer_relevancy`: Câu trả lời có liên quan đến Q không?
   - `context_precision`: Retrieved context có chính xác không?
   
-- [ ] Nếu RAGAS không hoạt động, tạo custom metrics thay thế với cùng tên
+- [x] Nếu RAGAS không hoạt động, tạo custom metrics thay thế với cùng tên
 
 **Acceptance Criteria:**
 
@@ -201,27 +199,27 @@
 
 **Chi tiết:**
 
-- [ ] Complete `run_single_test(test_case)`:
+- [x] Complete `run_single_test(test_case)`:
   - Gọi Agent async
   - Tính Hit Rate/MRR từ retrieved context
   - Chạy Multi-Judge
   - Record latency & token usage
   - Return structured result
   
-- [ ] Complete `run_all(dataset, batch_size=5)`:
+- [x] Complete `run_all(dataset, batch_size=5)`:
   - Dùng `asyncio.gather()` với batch processing
   - Respect rate limits (batch_size = 5)
   - Progress bar (tqdm)
   - Handle errors gracefully
   
-- [ ] Implement `calculate_metrics()`:
+- [x] Implement `calculate_metrics()`:
   - Tính aggregate metrics từ toàn bộ results:
     - avg_score, avg_hit_rate, avg_mrr
     - avg_latency, total_tokens
     - pass_rate (% cases with score > 3)
     - cost estimate
   
-- [ ] Implement cost tracking:
+- [x] Implement cost tracking:
   - Track token usage per model
   - Estimate cost (based on current pricing)
   - Output: `cost_per_eval`, `cost_per_1k_tokens`
@@ -245,12 +243,12 @@
 
 **Chi tiết:**
 
-- [ ] Implement version comparison logic:
+- [x] Implement version comparison logic:
   - So sánh `Agent_V1_Base` vs `Agent_V2_Optimized`
   - Tính delta cho mỗi metric
   - Generate delta report
   
-- [ ] Implement **Release Gate** logic:**
+- [x] Implement **Release Gate** logic:**
   - **APPROVE nếu:**
     - avg_score_v2 > avg_score_v1
     - hit_rate_v2 >= hit_rate_v1 (không giảm)
@@ -259,7 +257,7 @@
   - **BLOCK nếu** bất kỳ điều nào thất bại
   - Output: Decision + Reasoning
   
-- [ ] Implement thresholds (configurable):
+- [x] Implement thresholds (configurable):
 
   ```json
   {
@@ -349,7 +347,7 @@
   
 - [ ] Implement **5 Whys Analysis** cho top 3 failed cases:
 
-  ``` text
+  ``` markdown
   Case: "Question about X"
   Score: 1.5 (FAIL)
   Root Cause Analysis:
